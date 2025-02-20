@@ -34,7 +34,7 @@ Install dependencies using the command:
 
 bash
 Copy code
-git clone https://github.com/vigneshcode06/ShadowSSH.git
+git clone https://github.com/Yashvardhan0718/ShadowSSH.git
 cd ShadowSSH
 chmod +x install.sh
 sudo ./install.sh
